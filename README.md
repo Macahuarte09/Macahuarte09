@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Macahuarte09
+- 👋 Hola soy @Macahuarte09
 - 👀 Estoy estudiando una Tecnicatura en Programacion en la UTN. Actualmente estoy aprendiendo HTML, CSS y Python.
-- 📫 How to reach me macaahuarte09@gmail.com
+- 📫 Cómo contactarme: macaahuarte09@gmail.com
 
 
 <!---
